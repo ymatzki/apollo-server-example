@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ymatzki/graphql-server-example#readme",
   "dependencies": {
-    "apollo-server": "^2.9.16",
+    "apollo-server": "^2.14.2",
     "graphql": "^14.6.0"
   }
 }
